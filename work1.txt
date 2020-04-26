@@ -7,7 +7,7 @@ enum MovieType implements Serializable{
 	public String getN(){
 		return n;
 	}
-	MovieType(){
+	MovieType(){sssssssssssssssss
 		
 	}
 	MovieType(String n){
